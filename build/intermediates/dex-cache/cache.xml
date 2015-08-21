@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/joshuaoconnor/AndroidStudioProjects/LocationTracker/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-ee576f91b45a6538d4156fc6e674b6f65034f74e.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e"/>
+    <item
+        dex="/Users/joshuaoconnor/AndroidStudioProjects/LocationTracker/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-b7ef889932b56a25215e1593f817a38c14b70e48.jar"
+        jar="/Users/joshuaoconnor/AndroidStudioProjects/LocationTracker/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0"/>
+    <item
+        dex="/Users/joshuaoconnor/AndroidStudioProjects/LocationTracker/app/build/intermediates/pre-dexed/debug/classes-7f8b9db09e16c9cb62a361f850f02428844a6331.jar"
+        jar="/Users/joshuaoconnor/AndroidStudioProjects/LocationTracker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136"/>
+    <item
+        dex="/Users/joshuaoconnor/AndroidStudioProjects/LocationTracker/app/build/intermediates/pre-dexed/debug/classes-2a1811c024a8b6b6fc47d14d4b040d64ac6cbec5.jar"
+        jar="/Users/joshuaoconnor/AndroidStudioProjects/LocationTracker/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6"/>
+    <item
+        dex="/Users/joshuaoconnor/AndroidStudioProjects/LocationTracker/app/build/intermediates/pre-dexed/debug/classes-240eae69da1e3ee062469351ca6fce6efc7393b4.jar"
+        jar="/Users/joshuaoconnor/AndroidStudioProjects/LocationTracker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.71/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da"/>
+
+</pre-dex-items>
